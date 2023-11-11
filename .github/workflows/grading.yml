@@ -29,3 +29,6 @@ jobs:
     steps:
       - name: troubleshooting steps
         run: echo "Install a GitHub App on this repository using the selected installation type. This document might help https://docs.github.com/en/github/customizing-your-github-workflow/purchasing-and-installing-apps-in-github-marketplace/installing-an-app-in-your-organization#installing-a-github-app-in-your-organization" #Help the user to troubleshoot the activity
+    steps:
+      - name: troubleshooting steps
+        run: echo "Install a GitHub App on this repository using the selected installation type. This document might help https://docs.github.com/en/github/customizing-your-github-workflow/purchasing-and-installing-apps-in-github-marketplace/installing-an-app-in-your-organization#installing-a-github-app-in-your-organization" #Help the user to troubleshoot the activity
